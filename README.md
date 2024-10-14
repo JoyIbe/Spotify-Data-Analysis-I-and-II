@@ -19,4 +19,4 @@ Using the provided attributes in the spotify dataset, this analysis was carried 
 
 
 ## Query Optimization
-During this course of this analysis, I leveraged indexing by adding indexes on frequent queries and used Explain Analyze to review and improve query performance.
+During the course of this analysis, I leveraged indexing by adding indexes on frequent queries and used Explain Analyze to review and improve query performance.
