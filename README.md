@@ -16,3 +16,7 @@ Using the provided attributes in the spotify dataset, this analysis was carried 
 13. Use a WITH clause to calculate the difference between the highest and lowest energy values for tracks in each album.
 14. Find tracks where the energy-to-liveness ratio is greater than 1.2.
 15. Calculate the cumulative sum of likes for tracks ordered by the number of views, using window functions.
+
+
+## Query Optimization
+During this course of this analysis, I leveraged indexing by adding indexes on frequent queries and used Explain Analyze to review and improve query performance.
