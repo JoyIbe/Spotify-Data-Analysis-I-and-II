@@ -43,7 +43,7 @@ Key Takeaways:
 3. Notably, January recorded the highest number of tracks and streams, with 127 tracks and over 734 million streams respectively. The data also indicates a variation in trends, with some months showing a lower number of tracks but higher streaming figures and vice versa.
 4. 2022 recorded the highest number of streams with over 116 billion streams in the year.
 
-## Dasboard
+## Dashboard
 
 ![Spotify](https://github.com/user-attachments/assets/aedd33b1-cbcb-4527-b2be-baffb810b35b)
 
